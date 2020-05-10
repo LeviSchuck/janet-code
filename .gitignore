@@ -1,0 +1,13 @@
+janet_modules/
+deps/
+build/
+
+*.bin
+*.exe
+
+/dll/
+*.dll
+*.a
+*.log
+/tmp/
+/openssl/
